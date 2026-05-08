@@ -1,0 +1,5 @@
+configured: true
+
+project: "wknd"                                    # Check /apps/{project}/ or pom.xml
+package: "com.adobe.aem.guides.wknd.core"          # Check core/pom.xml
+group: "WKND Components"                           # Check existing component .content.xml files
