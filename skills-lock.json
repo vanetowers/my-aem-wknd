@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "skills": {
+    "aem-workflow": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/aem-workflow/SKILL.md",
+      "computedHash": "16db18b13714023d547be4fc19b4d83b8f0f61550379b7a21baa22c1b0685f81"
+    },
+    "best-practices": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/best-practices/SKILL.md",
+      "computedHash": "6af764f2a26e4ed557b0ab622225c83861999e2c4fe2b4b4f36a82a7f549111f"
+    },
+    "content-distribution": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/content-distribution/SKILL.md",
+      "computedHash": "d0cb6c84cdb01dc5d1ed1df634254b484d9e508987489a36e82a7322efbc0d56"
+    },
+    "create-component": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/create-component/SKILL.md",
+      "computedHash": "1298a8eab58c1ee32d14b0b0e1623f6f5592be00b96a724094c911d2805572c4"
+    },
+    "dispatcher": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/dispatcher/SKILL.md",
+      "computedHash": "f3e7de9394fd8dbe25a5013d41dec9c3d39e0ebc3b2a37cd4c7b6798be2a8d8e"
+    },
+    "ensure-agents-md": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/ensure-agents-md/SKILL.md",
+      "computedHash": "c59a9657c63a95e68530e5090d70b8ff2da8b705072e69f7a96c657dff10f49f"
+    },
+    "migration": {
+      "source": "adobe/skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/aem/cloud-service/skills/migration/SKILL.md",
+      "computedHash": "dbde2db71d02e52f5674aa4ba02951c4d6881c6bea2cf4dc8f30b7ea0ed5358c"
+    }
+  }
+}
