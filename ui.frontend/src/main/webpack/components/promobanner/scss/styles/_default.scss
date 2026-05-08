@@ -1,0 +1,25 @@
+.cmp-promobanner {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 2rem;
+
+    &__label {
+        color: #ffffff;
+        margin: 0;
+    }
+
+    &__cta {
+        color: #ffffff;
+        text-decoration: none;
+        border: 1px solid #ffffff;
+        padding: 0.5rem 1.25rem;
+
+        &:hover {
+            background-color: #ffffff;
+            color: #000000;
+        }
+    }
+}
